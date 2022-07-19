@@ -1,2 +1,9 @@
 # VM-Nuker
-NUKE Any VPS In 5 Minutes 🔥
+Hm, Use This To Nuke Your Friend's VPS/Host
+
+Oh What's Left Now, Go And NUKE
+
+I forgot this
+
+```
+
